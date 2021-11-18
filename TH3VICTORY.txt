@@ -1,0 +1,21 @@
+1-- wget -O- https://toolbelt.heroku.com/install-ubuntu.sh | sh
+------
+2-- heroku login -i
+------
+3-- git clone https://github.com/heroku/php-getting-started.git
+------
+4-- cd php-getting-started
+------
+5-- heroku create test 
+مثال=> heroku create rami8888
+تحط مكان rami8888 اسم من عندك
+------
+6-- git add .
+------
+7-- git commit -am "initial commit"
+------
+8-- git push heroku master
+-----------------------
+*-*
+Tele >> @RAMBO_SYR
+CH >> @TH3VICTORY
